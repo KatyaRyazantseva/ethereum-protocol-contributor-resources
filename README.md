@@ -41,6 +41,8 @@ This repository serves as a centralized collection of essential links and resour
 
 ## Development: Ethereum Clients
 
+- [Client Diversity](https://clientdiversity.org/)
+
 ### Execution Layer Clients
 
 EVM &#183; Mempool &#183; State &#183; Transaction Processing &#183; JSON-RPC API &#183; Fee Market Logic
