@@ -30,6 +30,7 @@ This repository serves as a centralized collection of essential links and resour
 
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/)
 - [EIP-5069: EIP Editor Handbook](https://eips.ethereum.org/EIPS/eip-5069)
+- [EIP Editors' Workshop](https://github.com/ethcatherders/EIPIP/issues/372)
 - [EIP Insight - analytics](https://eipsinsight.com/)
 - [EthCatHerders - EIP editing, Ethereum ecosystem support](https://www.ethcatherders.com/)
 
