@@ -9,7 +9,7 @@ This repository serves as a centralized collection of essential links and resour
 - [Development: Ethereum Clients](#ethereum-clients)
 - [Tests](#tests)
 - [Research](#research)
-- [Support Programs](#support-programs)
+- [Contributor Support Programs](#contributor-support-programs)
 - [Resources](#resources)
 
 ## Welcome to Ethereum
@@ -83,6 +83,7 @@ Beacon Chain &#183; Validators &#183; Block Proposing &#183; Attestations &#183;
 ## Contributor Support Programs
 
 - [Ethereum Next Billion Fellowship](https://nxbn.ethereum.foundation/)
+- [Ecosystem Support Program](https://esp.ethereum.foundation/)
 - [Ethereum Protocol Studies group (ESP)](https://epf.wiki/#/eps/intro)
 - [Ethereum Protocol Fellowship (EPF)](https://epf.wiki/#/wiki/epf)
 - [Ethereum Season of Internships](https://nxbn.ethereum.foundation/internships)
