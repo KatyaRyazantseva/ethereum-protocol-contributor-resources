@@ -2,6 +2,8 @@
 
 This repository serves as a centralized collection of essential links and resources designed to help you kickstart your journey into contributing to the Ethereum Protocol.
 
+[EthCC 2025 Cannes slides](https://docs.google.com/presentation/d/1LHgmAwwaQhAdcWuit8sSJzlrJg0AYvLLM_LWIMbSapc/edit?usp=sharing)
+
 - [Welcome to Ethereum](#welcome-to-ethereum)
 - [Ethereum Roadmap](#ethereum-roadmap)
 - [EIPs](#eips)
