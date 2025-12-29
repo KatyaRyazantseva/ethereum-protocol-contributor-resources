@@ -2,15 +2,21 @@
 
 This repository serves as a centralized collection of essential links and resources designed to help you kickstart your journey into contributing to the Ethereum Protocol.
 
-[EthCC 2025 Cannes slides](https://docs.google.com/presentation/d/1LHgmAwwaQhAdcWuit8sSJzlrJg0AYvLLM_LWIMbSapc/edit?usp=sharing)
+[EthCC [8] 2025 Cannes - Contributing into Ethereum Protocol: How to Start](https://ethcc.io/archives/contributing-into-ethereum-protocol-how-to-start) &#183; [Talk on YouTube](https://www.youtube.com/watch?v=wdwnvj9sVmA)  &#183; [Slides](https://docs.google.com/presentation/d/1LHgmAwwaQhAdcWuit8sSJzlrJg0AYvLLM_LWIMbSapc/edit?usp=sharing)
+
+## Contents 
 
 - [Welcome to Ethereum](#welcome-to-ethereum)
 - [Ethereum Roadmap](#ethereum-roadmap)
 - [EIPs](#eips)
 - [Specifications](#specifications)
-- [Development: Ethereum Clients](#ethereum-clients)
-- [Tests](#tests)
+- [Ethereum Clients](#ethereum-clients)
+- [Lean Ethereum](#lean-ethereum)
+- [Testing](#testing)
+- [Tooling](#tooling)
+- [Security](#security)
 - [Research](#research)
+- [Running Ethereum Nodes](#running-ethereum-nodes)
 - [Contributor Support Programs](#contributor-support-programs)
 - [Resources](#resources)
 
@@ -21,12 +27,11 @@ This repository serves as a centralized collection of essential links and resour
 - [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Yellow Paper Repo (outdated)](https://github.com/ethereum/yellowpaper)
 - [Vitalik Buterin: Ethereum in 30 minutes (DevCon Sea, Bangkok, 2024)](https://www.youtube.com/watch?v=ei3tDRMjw6k)
-
 ## Ethereum Roadmap
 
 - [Roadmap on Ethereum.org](https://ethereum.org/en/roadmap/)
 - [Eth Roadmap: Merge, Surge, Scourge, Verge, Purge, Splurge (outdated)](https://ethroadmap.com/)
-- [Lean Ethereum](https://beamroadmap.org/)
+- [Lean Ethereum](https://leanroadmap.org/)
 
 ## EIPs
 
@@ -38,10 +43,12 @@ This repository serves as a centralized collection of essential links and resour
 
 ## Specifications
 
-- [Consensus Layer Specifications](https://github.com/ethereum/consensus-specs)
 - [Execution Layer Specifications](https://github.com/ethereum/execution-specs)
+- [Consensus Layer Specifications](https://github.com/ethereum/consensus-specs)
+- [Annotated Consensus Layer Specifications](https://ethereum.github.io/consensus-specs/)
+- [Vitalik's Annotated Eth2 Spec](https://github.com/ethereum/annotated-spec)
 
-## Development: Ethereum Clients
+## Ethereum Clients
 
 - [Client Diversity](https://clientdiversity.org/)
 
@@ -70,26 +77,68 @@ Beacon Chain &#183; Validators &#183; Block Proposing &#183; Attestations &#183;
 
 [Consensus Clients on epf.wiki](https://epf.wiki/#/wiki/CL/cl-clients)
 
+### Ethereum APIs
+
+- [Execution APIs](https://github.com/ethereum/execution-apis)
+- [Consensus (beacon) APIs](https://github.com/ethereum/beacon-APIs)
+
+## Lean Ethereum
+
+- [Lean Ethereum Roadmap](https://leanroadmap.org/)
+- [Lean Ethereum Repo](https://github.com/leanEthereum)
+- [Lean Specifications](https://github.com/leanEthereum/leanSpec)
+- [Lean Metrics](https://github.com/leanEthereum/leanMetrics)
+- [LeanSig](https://github.com/leanEthereum/leanSig)
+- [EthProofs](https://ethproofs.org/)
+- [Ream Study Group](https://github.com/ReamLabs/ream-study-group)
+- [Lean-quickstart: Devnets Tooling](https://github.com/blockblaz/lean-quickstart)
+
+### Lean Consensus Clients
+
+- [Lantern](https://github.com/Pier-Two/lantern)
+- [Lighthouse](https://github.com/hopinheimer/lighthouse/tree/lean-ethereum)
+- [Qlean](https://github.com/qdrvm/qlean-mini)
+- [Ream](https://github.com/ReamLabs/ream)
+- [Zeam](https://github.com/blockblaz/zeam)
+
 ## Testing
 
 - [Execution Spec Tests](https://github.com/ethereum/execution-spec-tests)
 - [Consensus Spec Tests](https://github.com/ethereum/consensus-spec-tests)
-- [Ethereum Package (Kurtosis)](https://github.com/ethpandaops/ethereum-package)
 - [Testing on epf.wiki](https://epf.wiki/#/wiki/testing/overview)
+
+## Tooling
+
+- [The Lab by EthPandaOps](https://lab.ethpandaops.io/)
+- [Ethereum Package (Kurtosis)](https://github.com/ethpandaops/ethereum-package)
+- [Xatu](https://github.com/ethpandaops/xatu-data)
+
+## Security
+
+- [Ethereum Trillion Dollar Security](https://ethereum.org/trillion-dollar-security/)
 
 ## Research
 
 - [Ethresearch](https://ethresear.ch/)
 - [Ethereum Magicians](https://ethereum-magicians.org/)
 
+## Running Ethereum Nodes
+
+- [Running an Ethereum node Intro](https://ethereum.org/run-a-node/)
+- [Running an Ethereum Node Advanced](https://ethereum.org/developers/docs/nodes-and-clients/run-a-node/)
+- [EthDocker](https://ethdocker.com/)
+- [EthStaker](https://ethstaker.org/)
+
 ## Contributor Support Programs
 
 - [Ethereum Next Billion Fellowship](https://nxbn.ethereum.foundation/)
-- [Ecosystem Support Program](https://esp.ethereum.foundation/)
-- [Ethereum Protocol Studies group (ESP)](https://epf.wiki/#/eps/intro)
+- [Ecosystem Support Program (ESP)](https://esp.ethereum.foundation/)
+- [Ethereum Protocol Study Group (EPS)](https://epf.wiki/#/eps/intro)
 - [Ethereum Protocol Fellowship (EPF)](https://epf.wiki/#/wiki/epf)
 - [Ethereum Season of Internships](https://nxbn.ethereum.foundation/internships)
 - [Women in Ethereum Protocol](https://github.com/wiepteam/studygroup)
+- [Ethereum Trillion Dollar Security](https://ethereum.org/trillion-dollar-security/)
+- [Contributing to Ethereum](https://ethereum.org/contributing/)
 
 ## Resources
 
@@ -98,5 +147,7 @@ Beacon Chain &#183; Validators &#183; Block Proposing &#183; Attestations &#183;
 - [Ethereum GitHub](https://github.com/ethereum)
 - [Ethereum PM Repo](https://github.com/ethereum/pm)
 - [Ethereum calls](https://github.com/ethereum/pm/issues)
-- [DevCon Archive](https://archive.devcon.org/)
 - [epf.wiki](https://epf.wiki/)
+- [DevCon Archive](https://archive.devcon.org/)
+- [EthCC Archives](https://ethcc.io/archives)
+
