@@ -143,6 +143,7 @@ Beacon Chain &#183; Validators &#183; Block Proposing &#183; Attestations &#183;
 ## Resources
 
 - [Ethereum.org](https://ethereum.org/en/)
+- [The Eth2 Book](https://eth2book.info/)
 - [Ethereum Foundation YouTube Channel](https://www.youtube.com/@EthereumFoundation)
 - [Ethereum GitHub](https://github.com/ethereum)
 - [Ethereum PM Repo](https://github.com/ethereum/pm)
